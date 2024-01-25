@@ -3,7 +3,7 @@
 <h1 align="center">It's Baoussous Reda</h1>
 <h3 align="center">IT engineering student, DevOps & Middleware Specialist</h3>
 
-- 🔭 I’m currently working on **Integration of an Interactive Web Interface for Antenna Recognition with Automatic Generation of AutoLISP Scripts in an AutoCAD Environment**
+- 🔭 I’m currently working on An **integration of an Interactive Web Interface for Antenna Recognition with Automatic Generation of AutoLISP Scripts in an AutoCAD Environment**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
