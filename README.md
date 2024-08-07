@@ -3,8 +3,7 @@
 <h1 align="center">It's Baoussous Reda</h1>
 <h3 align="center">DevSecOps intern, DevOps & Middleware Specialist</h3>
 
-- 🔭 I’m currently working on A **Automatisation de Pipeline DevOps pour une Application Java avec
-SonarQube, Argo CD et Kubernetes**
+- 🔭 I’m currently working on A **DevOps Pipeline Automation for a Java Application with SonarQube, Argo CD and Kubernetes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
