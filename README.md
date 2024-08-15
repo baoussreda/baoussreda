@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Welcome to my GitHub profile!</h1>
 <img align="right" alt="Coding" width="400" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103224/devOps-trends.gif">
 <h1 align="center">It's Baoussous Reda</h1>
-<h3 align="center">DevSecOps intern, DevOps & Middleware Specialist</h3>
+<h3 align="center">DevSecOps intern, DevOps & Cloud Specialist</h3>
 
 - 🔭 I’m currently working on A **DevOps Pipeline Automation for a Java Application with SonarQube, Argo CD and Kubernetes**
 
